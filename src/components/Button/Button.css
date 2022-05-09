@@ -1,0 +1,11 @@
+.tap {
+    background-color: deepskyblue;
+    color: white;
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor: pointer;
+}
